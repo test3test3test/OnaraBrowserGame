@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/屋上.png"  ]
+[preload  storage="./data/fgimage/chara/3/怒りおならの妖精.png"  ]
+[preload  storage="./data/fgimage/chara/3/楽しいおならの妖精.png"  ]
+[preload  storage="./data/fgimage/chara/3/驚きおならの妖精.png"  ]
+[preload  storage="./data/fgimage/chara/3/照れおならの妖精.png"  ]
+[preload  storage="./data/fgimage/chara/3/嬉しいおならの妖精.png"  ]
+[return]
